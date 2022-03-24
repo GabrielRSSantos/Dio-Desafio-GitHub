@@ -1,2 +1,5 @@
-# Desafio Projeto Dio-Games-Bootcamp
-Desafio de projeto Dio
+# Desafio Projeto Dio-Bootcamp
+
+## Criando meu primeiro repositório pelo gitBash :sunglasses:
+
+Atividade realizada Dio.
